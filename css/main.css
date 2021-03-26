@@ -2,8 +2,8 @@
    color: white;
  }
 
- .navmasthead {
-  background-color: yellow;
+ .nav {
+  background-color: rgba(255, 255, 0, 0.788);
   }
   
   .marginRow{
@@ -11,14 +11,11 @@
     margin-top:0px !important; 
   }
   
-  .startbtn {
-    color: black
+  a.btn {
+    color: white;
+    background-color: rgba(30, 125, 214, 0.788);
   }
   
-  a.btn-primary {
-      background-color: #D24FAF;
-      border-color: #D24FAF;
-  }
   
   html {
     scroll-behavior: smooth
