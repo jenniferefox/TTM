@@ -1,0 +1,94 @@
+ .nav-link {
+   color: white;
+ }
+
+ .navmasthead {
+  background-color: yellow;
+  }
+  
+  .marginRow{
+    margin-bottom:0px !important;
+    margin-top:0px !important; 
+  }
+  
+  .startbtn {
+    color: black
+  }
+  
+  a.btn-primary {
+      background-color: #D24FAF;
+      border-color: #D24FAF;
+  }
+  
+  html {
+    scroll-behavior: smooth
+  }
+  
+  div.col-lg-3 {
+      background-color: white;
+      max-width:100%;
+      max-height:100em;
+  }
+  
+  a.btn-xl {
+      padding: 1rem 2rem;
+  }
+  
+  h1 {
+    color: white;
+    outline-color: black;
+  
+  }
+  
+  header {
+    background-image: url("../img/London.jpg");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+  
+  }
+     
+  hr {
+      max-width: 50px;
+      border-width: 3px;
+      color: pink;
+  }
+  
+  form {
+    content: center;
+    max-width: 50%;
+    margin: auto;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #d80808;
+    color: white;
+  }
+  
+  footer a {
+    color: white;
+  }
+  
+  footer a:hover {
+    color: white;
+  }
+  
+  label.form-control {
+    padding:4em
+  }
+
+  © 2021 GitHub, Inc.
+  Terms
+  Privacy
+  Security
+  Status
+  Docs
+  Contact GitHub
+  Pricing
+  API
+  Training
+  Blog
+  About
+  
