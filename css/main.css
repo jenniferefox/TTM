@@ -2,10 +2,19 @@
    color: white;
  }
 
- .nav {
-  background-color: rgba(255, 255, 0, 0.788);
+ .nav, a.nav-link{
+  background-color: rgb(195, 0, 255);
+  color: black;
+  opacity: 0.90;
+  }
+
+  .nav-masthead .nav-link:hover,
+  .nav-masthead .nav-link:focus {
+  background-color: #08d85f;
+  color: white;
   }
   
+
   .marginRow{
     margin-bottom:0px !important;
     margin-top:0px !important; 
@@ -13,20 +22,14 @@
   
   a.btn {
     color: white;
-    background-color: rgba(30, 125, 214, 0.788);
+    background-color: rgba(51, 39, 219, 0.788);
   }
-  
+
   
   html {
     scroll-behavior: smooth
   }
-  
-  div.col-lg-3 {
-      background-color: white;
-      max-width:100%;
-      max-height:100em;
-  }
-  
+   
   a.btn-xl {
       padding: 1rem 2rem;
   }
@@ -34,38 +37,25 @@
   h1 {
     color: white;
     outline-color: black;
-  
   }
   
-  header {
-    background-image: url("../img/London.jpg");
+  body {
+    background-image: url(../images/London_Eye_Twilight_April_2006.jpg);
     background-position:center;
     background-repeat: no-repeat;
     background-color: black;
     background-size: cover;
-  
   }
-     
-  hr {
-      max-width: 50px;
-      border-width: 3px;
-      color: pink;
-  }
-  
-  form {
-    content: center;
-    max-width: 50%;
-    margin: auto;
-  }
-  
+ 
   footer {
     text-align: center;
-    background-color: #d80808;
-    color: white;
+    background-color: #08d85f;
+    color: black;
+    opacity: 0.75;
   }
   
   footer a {
-    color: white;
+    color: Black;
   }
   
   footer a:hover {
