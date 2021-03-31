@@ -3,14 +3,14 @@
  }
 
  .nav, a.nav-link{
-  background-color: rgb(195, 0, 255);
-  color: black;
+  background-color: rgb(39, 37, 37);
+  color: rgb(255, 255, 255);
   opacity: 0.90;
   }
 
   .nav-masthead .nav-link:hover,
   .nav-masthead .nav-link:focus {
-  background-color: #08d85f;
+  background-color: rgba(255, 0, 0, 0.788);
   color: white;
   }
   
@@ -22,7 +22,7 @@
   
   a.btn {
     color: white;
-    background-color: rgba(51, 39, 219, 0.788);
+    background-color: rgba(255, 0, 0, 0.788);
   }
 
   
@@ -40,7 +40,7 @@
   }
   
   body {
-    background-image: url(../images/London_Eye_Twilight_April_2006.jpg);
+    background-image: url(../images/LondonSunset.jpg);
     background-position:center;
     background-repeat: no-repeat;
     background-color: black;
@@ -49,7 +49,7 @@
  
   footer {
     text-align: center;
-    background-color: #08d85f;
+    background-color: #ff5e00;
     color: black;
     opacity: 0.75;
   }
